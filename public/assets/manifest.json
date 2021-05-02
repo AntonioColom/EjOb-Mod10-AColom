@@ -1,0 +1,16 @@
+{
+    "name": "Juego del Disparador",
+    "short_name": "Disparador",
+    "icons": [
+        { "src": "icons/star192.png",
+          "sizes": "192x192",
+          "type": "image/png"},
+        { "src": "icons/star512.png",
+          "sizes": "512x512",
+          "type": "image/png"}  
+    ],
+    "start_url": "/EjOb-Mod10-AColom-index10.html",
+    "display": "standalone",
+    "background_color": "#353535",
+    "theme_color": "#2946f6"
+}
